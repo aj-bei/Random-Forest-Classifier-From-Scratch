@@ -1,4 +1,5 @@
 # Random-Forest-Classifier-From-Scratch
-!! IN PROGRESS !!
 
-Programming a random forest classifier from scratch (using only numPy)
+Programming a Random Forest Classifier from scratch (using only vanilla Python and not using SK Learn) 
+
+See RandomForest.ipynb for the code
